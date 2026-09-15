@@ -27,7 +27,7 @@
 9. [Untrusted Artifact Sandboxing & Security](#-untrusted-artifact-sandboxing--security)
 10. [Automated & Manual Testing](#-automated--manual-testing)
 11. [Troubleshooting & Resilience](#-troubleshooting--resilience)
-12. [Forward Deployed Engineer Handoff Guide](#-forward-deployed-engineer-handoff-guide)
+
 
 ---
 
